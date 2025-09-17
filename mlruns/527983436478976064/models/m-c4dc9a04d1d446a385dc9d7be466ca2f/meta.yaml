@@ -1,0 +1,10 @@
+artifact_location: file:///d:/python%20test/sep15/mlruns/527983436478976064/models/m-c4dc9a04d1d446a385dc9d7be466ca2f/artifacts
+creation_timestamp: 1757957582713
+experiment_id: '527983436478976064'
+last_updated_timestamp: 1757957586627
+model_id: m-c4dc9a04d1d446a385dc9d7be466ca2f
+model_type: null
+name: RandomForestModel
+source_run_id: 81b5ee9680114859984211e64da6e7fc
+status: 2
+status_message: null

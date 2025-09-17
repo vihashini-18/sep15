@@ -1,0 +1,36 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Leading_Current_Reactive_Power_kVarh",
+      "Lagging_Current_Power_Factor",
+      "Leading_Current_Power_Factor",
+      "NSM",
+      "WeekStatus_Weekend",
+      "Day_of_week_Monday",
+      "Day_of_week_Saturday",
+      "Day_of_week_Sunday",
+      "Day_of_week_Thursday",
+      "Day_of_week_Tuesday",
+      "Day_of_week_Wednesday",
+      "Load_Type_Maximum_Load",
+      "Load_Type_Medium_Load"
+    ],
+    "data": [
+      [
+        2.016411803072637,
+        1.0264727088927679,
+        -2.1512231921697476,
+        0.7758565182755276,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ]
+    ]
+  }
+}

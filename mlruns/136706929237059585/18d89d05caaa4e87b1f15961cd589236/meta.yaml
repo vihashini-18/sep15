@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/python%20test/sep15/mlruns/136706929237059585/18d89d05caaa4e87b1f15961cd589236/artifacts
+end_time: 1757985212680
+entry_point_name: ''
+experiment_id: '136706929237059585'
+lifecycle_stage: active
+run_id: 18d89d05caaa4e87b1f15961cd589236
+run_name: RandomForest_RandomSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757985189060
+status: 3
+tags: []
+user_id: VIHASHINI

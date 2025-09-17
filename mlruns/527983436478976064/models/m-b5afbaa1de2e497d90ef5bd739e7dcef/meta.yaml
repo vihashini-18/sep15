@@ -1,0 +1,10 @@
+artifact_location: file:///d:/python%20test/sep15/mlruns/527983436478976064/models/m-b5afbaa1de2e497d90ef5bd739e7dcef/artifacts
+creation_timestamp: 1757957647218
+experiment_id: '527983436478976064'
+last_updated_timestamp: 1757957650586
+model_id: m-b5afbaa1de2e497d90ef5bd739e7dcef
+model_type: null
+name: GradientBoostingModel
+source_run_id: da4a988813ae44cfaf514fd282ced811
+status: 2
+status_message: null

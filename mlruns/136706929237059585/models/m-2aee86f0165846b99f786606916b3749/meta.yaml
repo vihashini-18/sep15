@@ -1,0 +1,10 @@
+artifact_location: file:///d:/python%20test/sep15/mlruns/136706929237059585/models/m-2aee86f0165846b99f786606916b3749/artifacts
+creation_timestamp: 1757985229393
+experiment_id: '136706929237059585'
+last_updated_timestamp: 1757985232939
+model_id: m-2aee86f0165846b99f786606916b3749
+model_type: null
+name: model
+source_run_id: 826111aba9904f8aa5a86661aa284969
+status: 2
+status_message: null

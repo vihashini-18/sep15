@@ -1,0 +1,44 @@
+artifact_path: file:///d:/python%20test/sep15/mlruns/0/models/m-111075e81aa04313a35d670efbc9e66f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-111075e81aa04313a35d670efbc9e66f
+model_size_bytes: 465702
+model_uuid: m-111075e81aa04313a35d670efbc9e66f
+prompts: null
+run_id: 7114947f93dc4b239b2da21c08c14b67
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Leading_Current_Reactive_Power_kVarh", "required":
+    true}, {"type": "double", "name": "Lagging_Current_Power_Factor", "required":
+    true}, {"type": "double", "name": "Leading_Current_Power_Factor", "required":
+    true}, {"type": "double", "name": "NSM", "required": true}, {"type": "boolean",
+    "name": "WeekStatus_Weekend", "required": true}, {"type": "boolean", "name": "Day_of_week_Monday",
+    "required": true}, {"type": "boolean", "name": "Day_of_week_Saturday", "required":
+    true}, {"type": "boolean", "name": "Day_of_week_Sunday", "required": true}, {"type":
+    "boolean", "name": "Day_of_week_Thursday", "required": true}, {"type": "boolean",
+    "name": "Day_of_week_Tuesday", "required": true}, {"type": "boolean", "name":
+    "Day_of_week_Wednesday", "required": true}, {"type": "boolean", "name": "Load_Type_Maximum_Load",
+    "required": true}, {"type": "boolean", "name": "Load_Type_Medium_Load", "required":
+    true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-16 03:42:03.800035'

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/python%20test/sep15/mlruns/527983436478976064/aa0a17c51ddd4720a06ca6f9e5cf7d6b/artifacts
+end_time: 1757956713773
+entry_point_name: ''
+experiment_id: '527983436478976064'
+lifecycle_stage: active
+run_id: aa0a17c51ddd4720a06ca6f9e5cf7d6b
+run_name: GradientBoosting_Final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757956703702
+status: 3
+tags: []
+user_id: VIHASHINI
