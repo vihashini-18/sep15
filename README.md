@@ -35,7 +35,6 @@ This project is a **Machine Learning pipeline** for predicting steel industry da
 
 - Python 3.8+  
 - Gradio  
-- TensorFlow / PyTorch (depending on model)  
 - scikit-learn  
 - pandas, numpy  
 - MLflow  
